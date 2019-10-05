@@ -1,2 +1,2 @@
 # ResolutionTicketManagementSystem
-Ticket Management System!
+ServiceTicketResolutionSystem implemented using JSP and Servlets.
